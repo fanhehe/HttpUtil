@@ -1,21 +1,15 @@
 # ShopUtil
 
-[![](https://jitpack.io/v/fanhehe/ShopUtil.svg)](https://jitpack.io/#fanhehe/ShopUtil)
+[![](https://jitpack.io/v/fanhehe/HttpUtil.svg)](https://jitpack.io/#fanhehe/HttpUtil)
 
 ## 提供功能：
 
- 通用工具组件，封装的原因来自于[Shop应用](https://github.com/fanhehe/Shop)的SOA经常需要不同业务间打交道，因此封装通用的方法。
-
 1. 前后端交互，约束协议**IResult**。
-2. java.time的通用方法的二次封装。
-3. 基于`httpclient`及`fluent-hc`的业务封装的通用HttpClient工具。
-
-
-> Shop服务地址: [https://github.com/fanhehe/Shop](https://github.com/fanhehe/Shop)
+2. 基于`httpclient`及`fluent-hc`的业务封装的通用HttpClient工具。
 
 ## 要求
 
-- Java 8
+- Java 8+
 
 ## 安装
 
