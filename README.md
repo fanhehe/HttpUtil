@@ -1,4 +1,4 @@
-# ShopUtil
+# HttpUtil
 
 [![](https://jitpack.io/v/fanhehe/HttpUtil.svg)](https://jitpack.io/#fanhehe/HttpUtil)
 
